@@ -1,0 +1,142 @@
+{
+  "name": "cn-workingpaper",
+  "description": "课题组中文工作论文格式（据中文工作论文交导师版实测）",
+  "page": {
+    "width_cm": 21.0,
+    "height_cm": 29.7,
+    "top_cm": 2.54,
+    "bottom_cm": 2.54,
+    "left_cm": 2.5,
+    "right_cm": 2.5
+  },
+  "latin_font": "Times New Roman",
+  "classes": {
+    "title": {
+      "east": "黑体",
+      "size": 16,
+      "bold": true,
+      "align": "center",
+      "line": 1.25
+    },
+    "abstract": {
+      "east": "宋体",
+      "size": 10.5,
+      "bold": false,
+      "align": "justify",
+      "line": 1.25,
+      "label_east": "黑体",
+      "label_bold": true
+    },
+    "keywords": {
+      "east": "宋体",
+      "size": 10.5,
+      "bold": false,
+      "align": "justify",
+      "line": 1.25,
+      "label_east": "黑体",
+      "label_bold": true
+    },
+    "h1": {
+      "east": "黑体",
+      "size": 14,
+      "bold": true,
+      "align": "left",
+      "line": 1.5,
+      "before": 12,
+      "after": 6,
+      "indent_chars": 0
+    },
+    "h2": {
+      "east": "黑体",
+      "size": 12,
+      "bold": true,
+      "align": "left",
+      "line": 1.5,
+      "before": 6,
+      "after": 0,
+      "indent_chars": 0
+    },
+    "h3": {
+      "east": "楷体",
+      "size": 12,
+      "bold": false,
+      "align": "left",
+      "line": 1.5,
+      "before": 3,
+      "after": 0,
+      "indent_chars": 2
+    },
+    "body": {
+      "east": "宋体",
+      "size": 12,
+      "bold": false,
+      "align": "justify",
+      "line": 1.5,
+      "indent_chars": 2
+    },
+    "caption": {
+      "east": "黑体",
+      "size": 10.5,
+      "bold": true,
+      "align": "center",
+      "line": 1.25,
+      "indent_chars": 0
+    },
+    "note": {
+      "east": "宋体",
+      "size": 9,
+      "bold": false,
+      "align": "justify",
+      "line": 1.0,
+      "indent_chars": 0
+    },
+    "placeholder": {
+      "east": "宋体",
+      "size": 12,
+      "bold": true,
+      "align": "center",
+      "line": 1.5,
+      "indent_chars": 0
+    },
+    "refs_heading": {
+      "east": "黑体",
+      "size": 14,
+      "bold": true,
+      "align": "center",
+      "line": 1.5
+    },
+    "reference": {
+      "east": "宋体",
+      "size": 10.5,
+      "bold": false,
+      "align": "left",
+      "line": 1.25,
+      "hanging_cm": 0.74
+    },
+    "table_cell": {
+      "east": "宋体",
+      "size": 9,
+      "line": 1.0,
+      "align": "center",
+      "first_col_align": "left"
+    },
+    "footnote": {
+      "east": "宋体",
+      "size": 9
+    },
+    "panel": {
+      "east": "宋体",
+      "size": 9,
+      "bold": true,
+      "align": "left",
+      "line": 1.0,
+      "indent_chars": 0
+    }
+  },
+  "table": {
+    "style": "three-line",
+    "top_sz": 12,
+    "header_sz": 6,
+    "bottom_sz": 12
+  }
+}

@@ -1,0 +1,3 @@
+table,column,outcome,regressor,coef,se_or_t,stars,n_obs,dep_mean,econ_value,econ_unit,note
+4,1,ln(Loan Maturity),Policy,-0.2089,,***,,,-18.9,%,exp(b)-1
+4,2,Secured,Policy,0.2350,,***,,0.809,23.5,pp,share of mean 29.0%

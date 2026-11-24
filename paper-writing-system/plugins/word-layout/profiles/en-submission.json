@@ -1,0 +1,141 @@
+{
+  "name": "en-submission",
+  "description": "英文期刊投稿通用格式（双倍行距、Times New Roman 12 磅、表图文末）；投稿前按目标期刊作者指南核对",
+  "page": {
+    "width_cm": 21.59,
+    "height_cm": 27.94,
+    "top_cm": 2.54,
+    "bottom_cm": 2.54,
+    "left_cm": 2.54,
+    "right_cm": 2.54
+  },
+  "latin_font": "Times New Roman",
+  "classes": {
+    "title": {
+      "east": "Times New Roman",
+      "size": 14,
+      "bold": true,
+      "align": "center",
+      "line": 2.0
+    },
+    "abstract": {
+      "east": "Times New Roman",
+      "size": 12,
+      "bold": false,
+      "align": "justify",
+      "line": 2.0,
+      "label_bold": true
+    },
+    "keywords": {
+      "east": "Times New Roman",
+      "size": 12,
+      "bold": false,
+      "align": "left",
+      "line": 2.0,
+      "label_bold": true
+    },
+    "h1": {
+      "east": "Times New Roman",
+      "size": 12,
+      "bold": true,
+      "align": "left",
+      "line": 2.0,
+      "before": 12,
+      "after": 0,
+      "indent_chars": 0
+    },
+    "h2": {
+      "east": "Times New Roman",
+      "size": 12,
+      "bold": true,
+      "align": "left",
+      "line": 2.0,
+      "before": 6,
+      "after": 0,
+      "indent_chars": 0
+    },
+    "h3": {
+      "east": "Times New Roman",
+      "size": 12,
+      "bold": false,
+      "italic": true,
+      "align": "left",
+      "line": 2.0,
+      "before": 6,
+      "after": 0,
+      "indent_chars": 0
+    },
+    "body": {
+      "east": "Times New Roman",
+      "size": 12,
+      "bold": false,
+      "align": "justify",
+      "line": 2.0,
+      "indent_cm": 1.27
+    },
+    "caption": {
+      "east": "Times New Roman",
+      "size": 12,
+      "bold": true,
+      "align": "center",
+      "line": 1.0,
+      "indent_chars": 0
+    },
+    "note": {
+      "east": "Times New Roman",
+      "size": 10,
+      "bold": false,
+      "align": "justify",
+      "line": 1.0,
+      "indent_chars": 0
+    },
+    "placeholder": {
+      "east": "Times New Roman",
+      "size": 12,
+      "bold": true,
+      "align": "center",
+      "line": 2.0,
+      "indent_chars": 0
+    },
+    "refs_heading": {
+      "east": "Times New Roman",
+      "size": 12,
+      "bold": true,
+      "align": "center",
+      "line": 2.0
+    },
+    "reference": {
+      "east": "Times New Roman",
+      "size": 12,
+      "bold": false,
+      "align": "left",
+      "line": 2.0,
+      "hanging_cm": 1.27
+    },
+    "table_cell": {
+      "east": "Times New Roman",
+      "size": 10,
+      "line": 1.0,
+      "align": "center",
+      "first_col_align": "left"
+    },
+    "footnote": {
+      "east": "Times New Roman",
+      "size": 10
+    },
+    "panel": {
+      "east": "Times New Roman",
+      "size": 10,
+      "bold": true,
+      "align": "left",
+      "line": 1.0,
+      "indent_chars": 0
+    }
+  },
+  "table": {
+    "style": "three-line",
+    "top_sz": 12,
+    "header_sz": 6,
+    "bottom_sz": 12
+  }
+}

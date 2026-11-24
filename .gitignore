@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# 归档语料：705M 期刊 PDF，含版权文献，不进入 Git 历史
+_archive_2026-10/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 临时/办公软件锁文件
+~$*
+*.tmp
